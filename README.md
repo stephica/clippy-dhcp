@@ -1,7 +1,7 @@
 clippy-dhcp
 ===========
 
-"You look like your'e trying to add a route based on your wireless network. Do you need some help?"
+"You look like you're trying to add a route based on your wireless network. Do you need some help?"
 
 A very simple bash script designed to automatically change network settings depending on what network you are connected to, named after the most riduculous personal assistant ever. Simply add in the variables in conf and set it to run from cron every minute. 
 
